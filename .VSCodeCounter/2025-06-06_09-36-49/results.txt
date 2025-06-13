@@ -1,0 +1,74 @@
+Date : 2025-06-06 09:36:49
+Directory : c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS
+Total : 36 files,  2492 codes, 81 comments, 538 blanks, all 3111 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |         33 |      2,445 |         80 |        532 |      3,057 |
+| XML      |          3 |         47 |          1 |          6 |         54 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                                   | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                                      |         36 |      2,492 |         81 |        538 |      3,111 |
+| . (Files)                                                                                                                                              |          1 |         26 |          1 |          6 |         33 |
+| .idea                                                                                                                                                  |          2 |         21 |          0 |          0 |         21 |
+| src                                                                                                                                                    |         33 |      2,445 |         80 |        532 |      3,057 |
+| src\main                                                                                                                                               |         33 |      2,445 |         80 |        532 |      3,057 |
+| src\main\java                                                                                                                                          |         33 |      2,445 |         80 |        532 |      3,057 |
+| src\main\java\org                                                                                                                                      |         33 |      2,445 |         80 |        532 |      3,057 |
+| src\main\java\org\example                                                                                                                              |         33 |      2,445 |         80 |        532 |      3,057 |
+| src\main\java\org\example (Files)                                                                                                                      |          3 |         73 |          6 |         22 |        101 |
+| src\main\java\org\example\Entidad                                                                                                                      |          8 |        388 |          9 |        121 |        518 |
+| src\main\java\org\example\GUI                                                                                                                          |         13 |      1,278 |         49 |        296 |      1,623 |
+| src\main\java\org\example\GUI (Files)                                                                                                                  |          8 |        921 |         21 |        187 |      1,129 |
+| src\main\java\org\example\GUI\From                                                                                                                     |          5 |        357 |         28 |        109 |        494 |
+| src\main\java\org\example\Logica_DAO                                                                                                                   |          9 |        706 |         16 |         93 |        815 |
++--------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                                               | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\.idea\encodings.xml                                                      | XML      |          7 |          0 |          0 |          7 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\.idea\misc.xml                                                           | XML      |         14 |          0 |          0 |         14 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\pom.xml                                                                  | XML      |         26 |          1 |          6 |         33 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\CambiarContrasena.java                         | Java     |         52 |          0 |         15 |         67 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\Conexion.java                                  | Java     |         12 |          0 |          5 |         17 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\Entidad\MetaObstetra.java                      | Java     |         55 |          1 |         17 |         73 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\Entidad\MetaPrograma.java                      | Java     |         46 |          4 |         14 |         64 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\Entidad\Obstetra.java                          | Java     |         44 |          0 |         13 |         57 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\Entidad\Paciente.java                          | Java     |         43 |          2 |         15 |         60 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\Entidad\Programa.java                          | Java     |         23 |          0 |          8 |         31 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\Entidad\RegistroPrueba.java                    | Java     |         56 |          1 |         18 |         75 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\Entidad\SesionUsuario.java                     | Java     |         49 |          1 |         15 |         65 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\Entidad\Usuario.java                           | Java     |         72 |          0 |         21 |         93 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\GUI\From\FormularioActualizarMetaPrograma.java | Java     |         73 |          3 |         21 |         97 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\GUI\From\FormularioRegistrarObstetra.java      | Java     |         55 |          2 |         19 |         76 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\GUI\From\FormularioRegistrarPaciente.java      | Java     |         55 |          7 |         19 |         81 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\GUI\From\FormularioRegistroAtencion.java       | Java     |        105 |         10 |         27 |        142 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\GUI\From\FormularioReportesAvance.java         | Java     |         69 |          6 |         23 |         98 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\GUI\Login.java                                 | Java     |        120 |          0 |         26 |        146 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\GUI\MenuAdministrador.java                     | Java     |         30 |          0 |          7 |         37 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\GUI\MenuObstetra.java                          | Java     |         24 |          0 |          7 |         31 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\GUI\ObstetraGUI.java                           | Java     |         95 |          0 |         21 |        116 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\GUI\PacienteGUI.java                           | Java     |         93 |          0 |         23 |        116 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\GUI\Registro.java                              | Java     |        136 |          8 |         27 |        171 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\GUI\RegistroPruebaGUI.java                     | Java     |        295 |         13 |         50 |        358 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\GUI\UsuarioGUI.java                            | Java     |        128 |          0 |         26 |        154 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\Logica_DAO\ControlSesionUsuario.java           | Java     |         20 |          0 |          8 |         28 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\Logica_DAO\MetaObstetraDAO.java                | Java     |         69 |          0 |          9 |         78 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\Logica_DAO\MetaProgramaDAO.java                | Java     |         89 |          5 |         10 |        104 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\Logica_DAO\ObstetraDAO.java                    | Java     |         84 |          5 |         11 |        100 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\Logica_DAO\PacienteDAO.java                    | Java     |         87 |          0 |         10 |         97 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\Logica_DAO\ProgramaDAO.java                    | Java     |         70 |          5 |         10 |         85 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\Logica_DAO\RegistroPruebaDAO.java              | Java     |        113 |          1 |         15 |        129 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\Logica_DAO\SesionUsuarioDAO.java               | Java     |         77 |          0 |          8 |         85 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\Logica_DAO\UsuarioDAO.java                     | Java     |         97 |          0 |         12 |        109 |
+| c:\Users\marco\Documents\Ciclo_marzo_25\Curso_integrador\Mi_Proyecto_2025_CIS\src\main\java\org\example\Main.java                                      | Java     |          9 |          6 |          2 |         17 |
+| Total                                                                                                                                                  |          |      2,492 |         81 |        538 |      3,111 |
++--------------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
